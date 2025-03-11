@@ -6,25 +6,39 @@
 
 <br>
 <p align="center">
-  Learning <i>Reinforcement Learning</i> now...
+  ❤Learning <i>Reinforcement Learning</i> now...❤
 </p>
 <p align="center">
-  
-</p>
+    <div align=center>
 
-<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jilinjl&show_icons=true" />
+      
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jilinjl&hide=html&title_color=61dafb&layout=normal" />
+
+  </div>
+</p>
+<hr>
+
+## Tools
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80" title="HTML5">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="80" title="CSS3">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="80" title="TypeScript">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="80" title="React">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="80" title="Vue.js">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" title="Python">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="80" title="Docker">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="80" title="Linux">
+</p>  
+
+
+## Commit
 
 ![Snake animation](https://github.com/JilinJL/jilinjl/blob/master/dist/github-snake.svg)
 
 
+## Contribution
 <p align=center>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jilinjl&hide=html&title_color=61dafb&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-    </a>
-  </div>
-  <br>
-
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jilinjl&theme=react-dark" width="100%"/>
 </p>
 
