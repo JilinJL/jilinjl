@@ -1,4 +1,9 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jilinjl)](https://github.com/anuraghazra/github-readme-stats)
+<!-- info -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jilinjl&count_private=true&show_icons=true&theme=radical)
+<!-- code language -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jilinjl&hide=html&layout=compact&show_icons=true&theme=radical)
+
 <!--
 **JilinJL/jilinjl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
