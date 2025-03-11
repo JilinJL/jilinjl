@@ -2,11 +2,14 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # 每天午夜 UTC 时间运行
+    - cron: "0 0 * * *"  # 每天运行一次
   push:
     branches:
-      - main
-  workflow_dispatch:  # 允许手动运行
+      - master
+  workflow_dispatch:
+
+permissions:
+  contents: write  # 允许 GitHub Actions 写入仓库
 
 jobs:
   build:
@@ -22,7 +25,8 @@ jobs:
           outputs: dist/github-snake.svg
 
       - name: Commit and Push
-        uses: EndBug/add-and-commit@v9
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          message: "🐍 Update GitHub Contribution Snake"
-          add: "dist/github-snake.svg"
+          commit_message: "🐍 Update GitHub Contribution Snake"
+          branch: master  # 确保提交到 master 分支
+          file_pattern: "dist/github-snake.svg"
