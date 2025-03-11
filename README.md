@@ -14,8 +14,7 @@
 
 <br>
 
-### 🐍 GitHub Contribution Snake
-![Snake animation](https://github.com/jilinjl/jilinjl/blob/main/dist/github-snake.svg)
+![Snake animation](https://github.com/JilinJL/jilinjl/blob/master/dist/github-snake.svg)
 
 
 <p align=center>
