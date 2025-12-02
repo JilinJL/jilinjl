@@ -6,7 +6,7 @@
 
 <br>
 <p align="center">
-  ❤Learning <i>Reinforcement Learning</i> now...❤
+  The real danger has never been machines thinking like humans, but humans thinking like machines.
 </p>
 <p align="center">
     <div align=center>
