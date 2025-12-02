@@ -6,7 +6,7 @@
 
 <br>
 <p align="center">
-  The real danger has never been machines thinking like humans, but humans thinking like machines.
+  <b>The real danger has never been machines thinking like humans, but humans thinking like machines.</b>
 </p>
 <p align="center">
     <div align=center>
