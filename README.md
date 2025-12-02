@@ -11,9 +11,8 @@
 <p align="center">
     <div align=center>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jilinjl&show_icons=true" />
-      
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jilinjl&hide=html&title_color=61dafb&layout=normal" />
+<img align="center" src="https://gitee.com/jilinJL/my-pictures/raw/master/img/202511191508887.png" />
+    
 
   </div>
 </p>
