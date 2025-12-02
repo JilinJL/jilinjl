@@ -11,7 +11,7 @@
 <p align="center">
     <div align=center>
 
-<img align="center" src="https://gitee.com/jilinJL/my-pictures/raw/master/img/202511191508887.png" />
+<img align="center" src="https://gitee.com/jilinJL/my-pictures/raw/master/img/202512021737893.jpg" alt="Long Time Ago -- ME"/>
     
 
   </div>
