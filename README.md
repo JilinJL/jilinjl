@@ -11,7 +11,11 @@
 <p align="center">
     <div align=center>
 
-<img align="center" src="https://gitee.com/jilinJL/my-pictures/raw/master/img/202512021737893.jpg" alt="Long Time Ago -- ME"/>
+<img 
+  src="https://gitee.com/jilinJL/my-pictures/raw/master/img/202512021737893.jpg" 
+  alt="Long Time Ago -- ME"
+  style="width: 200px; height: auto;"
+/>
     
 
   </div>
